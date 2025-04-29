@@ -4,7 +4,7 @@
 
    [繁體中文](./docs/README.zh-tw.md)
    <p>
-      A tool to generate your github summary card for profile README. Inspired by <a href=https://github.com/tipsy/profile-summary-for-github>profile-summary-for-github</a>
+      A tool to generate your github summary card for profile README. Inspired by <a href=https://github.com/github-profile-summary-cards-example/profile-summary-card-output/tokyonight>profile-summary-for-github</a>
    </p>
    <p>
       :star: This repo is just for fun, feel free to contribute! :star:
