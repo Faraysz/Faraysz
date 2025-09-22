@@ -20,7 +20,3 @@
 </div>
 
 ## 🐍 Snake Game Contribution
-
-![snake gif](https://github.com/Faraysz/snk/raw/output/github-contribution-grid-snake.svg)
-
-
