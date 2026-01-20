@@ -18,5 +18,3 @@
   <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats">
   <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time">
 </div>
-
-## 🐍 Snake Game Contribution
