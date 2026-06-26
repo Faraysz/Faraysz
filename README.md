@@ -18,3 +18,9 @@
   <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats">
   <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time">
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faraysz/Snake-Game/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faraysz/Snake-Game/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Faraysz/Snake-Game/output/github-snake.svg" />
+</picture>
