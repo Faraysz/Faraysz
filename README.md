@@ -2,14 +2,9 @@
 
 # MY STAT :
 
-<div>
-  <!-- User Stats -->
-  <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details">
-</div>
-
 <div style="display: flex; justify-content: space-between; margin-top: 10px;">
   <!-- Top Languages (Repos per Language & Most Commit Language) -->
-  <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language">
+  <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/main/profile-summary-card-output/algolia/0-profile-details.svg" alt="Repos per Language">
   <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language">
 </div>
 
