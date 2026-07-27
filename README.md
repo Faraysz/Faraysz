@@ -1,18 +1,12 @@
-# Faraysz
+# Hi, I'm Faraysz 👋
 
-# MY STAT :
+[![](https://raw.githubusercontent.com/Faraysz/Faraysz/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/Faraysz/Faraysz)
 
-<div style="display: flex; justify-content: space-between; margin-top: 10px;">
-  <!-- Top Languages (Repos per Language & Most Commit Language) -->
-  <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/main/profile-summary-card-output/algolia/0-profile-details.svg" alt="Repos per Language">
-  <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language">
-</div>
+[![](https://raw.githubusercontent.com/Faraysz/Faraysz/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/Faraysz/Faraysz) [![](https://raw.githubusercontent.com/Faraysz/Faraysz/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/Faraysz/Faraysz)
 
-<div style="display: flex; justify-content: space-between; margin-top: 10px;">
-  <!-- Stats & Productive Time -->
-  <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats">
-  <img src="https://raw.githubusercontent.com/Faraysz/Faraysz/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time">
-</div>
+[![](https://raw.githubusercontent.com/Faraysz/Faraysz/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/Faraysz/Faraysz) [![](https://raw.githubusercontent.com/Faraysz/Faraysz/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/Faraysz/Faraysz)
+
+## Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faraysz/Snake-Game/output/github-snake-dark.svg" />
